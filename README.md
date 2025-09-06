@@ -31,13 +31,13 @@ Optimal Solutions for the Traveling Salesman Problem (TSP). This repository impl
 git clone https://github.com/fattahniz/test-travelling-salesman-problem.git
 cd test-travelling-salesman-problem
 
-Install dependencies (if any):
+2. Install dependencies (if any):
 pip install -r requirements.txt
 
-Run the main script:
+3. Run the main script:
 python tsp_solver.py
 
-Follow the instructions to input cities or use the sample datasets.
+4. Follow the instructions to input cities or use the sample datasets.
 
 
 📊 Visualization
